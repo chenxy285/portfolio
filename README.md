@@ -10,9 +10,9 @@
 **Research Engineer @ School of Computing and Information Systems, Singapore Management University (_December 2021 - present)**
 - SmartBFA project
 - QCHIPL project  
-** Graduate Researcher @ Urban Analytics Lab, National University of Singapore (_January 2021 - August 2021_)**
-- Mining real estate ads and property transactions for building and amenity data acquisition
-**Teaching Assistant @ Urban Analytics Lab, National University of Singapore (_August 2020 - November 2020_)**
-**Technology Consulting Intern @ Detecon International DmBH (_May 2020 to August 2020)**
+**Graduate Researcher @ Urban Analytics Lab, National University of Singapore (_January 2021 - August 2021_)**  
+- Mining real estate ads and property transactions for building and amenity data acquisition  
+**Teaching Assistant @ Urban Analytics Lab, National University of Singapore (_August 2020 - November 2020_)**  
+**Technology Consulting Intern @ Detecon International DmBH (_May 2020 to August 2020)**  
   
 ## Projects
