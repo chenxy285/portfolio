@@ -12,7 +12,7 @@
 - [QCHIPL project](#qchipl)
   
 **Graduate Researcher @ Urban Analytics Lab, National University of Singapore (_January 2021 - August 2021_)**  
-- Mining real estate ads and property transactions for building and amenity data acquisition
+- [Mining real estate ads and property transactions for building and amenity data acquisition](#real_estate)
   
 **Teaching Assistant @ Urban Analytics Lab, National University of Singapore (_August 2020 - November 2020_)**
 - Prepared lecture materials about spatial network analysis by using QGIS
@@ -23,5 +23,9 @@
 
 <a name="qchipl"></a>
 ### Improving Quantal Cognitive Hierarchy Model Through Iterative Population Learning (QCHIPL)
+
+<a name="real_estate"></a>
+### Mining real estate ads and property transactions for building and amenity data acquisition
+  
 
 
