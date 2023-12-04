@@ -8,7 +8,7 @@
   
 ## Work experience 
 **Research Engineer @ School of Computing and Information Systems, Singapore Management University (_December 2021 - present)**
-- [SmartBFA project](#SmartBFA project)
+- [SmartBFA project](#smartbfa)
 - QCHIPL project
   
 **Graduate Researcher @ Urban Analytics Lab, National University of Singapore (_January 2021 - August 2021_)**  
@@ -18,4 +18,5 @@
 - Prepared lecture materials about spatial network analysis by using QGIS
   
 ## Projects
+<a name="smartbfa"></a>
 ### SmartBFA project
