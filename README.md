@@ -9,7 +9,7 @@
 ## Work experience 
 **Research Engineer @ School of Computing and Information Systems, Singapore Management University (_December 2021 - present)**
 - [SmartBFA project](#smartbfa)
-- QCHIPL project
+- [QCHIPL project](#qchipl)
   
 **Graduate Researcher @ Urban Analytics Lab, National University of Singapore (_January 2021 - August 2021_)**  
 - Mining real estate ads and property transactions for building and amenity data acquisition
@@ -19,4 +19,9 @@
   
 ## Projects
 <a name="smartbfa"></a>
-### SmartBFA project
+### Smart Barrier-Free Access (SmartBFA)
+
+<a name="qchipl"></a>
+### Improving Quantal Cognitive Hierarchy Model Through Iterative Population Learning (QCHIPL)
+
+
