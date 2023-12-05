@@ -1,5 +1,5 @@
 title: Chen Xinyu
 logo: /assets/imgs/logo.png
-#description: text below image
-show_downloads: true
+description: Hello there! I am Xinyu, a researcher passionate about data science applications.
+show_downloads: false
 theme: jekyll-theme-minimal
