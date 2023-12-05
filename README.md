@@ -57,6 +57,7 @@ Developed codes to aggregate over a million records of order-level taxi data int
 ## Other coursework projects
 
 ### Spatial-temporal Analysis of Taxi Demand in New York City
+##### Urban Science, spatio-temporal analytics, transportation
 [View project report, codes, and data](https://github.com/chenxy285/taxi_demand_analysis_NYC)
 
 
