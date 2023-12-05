@@ -6,8 +6,6 @@
 - M.S.  Applied Geographic Information Systems	| National University of Singapore (_August 2021_)	 			        		
 - B.S.  Human Geography | Sun Yat-sen University (_June 2019_)
 
----
-
 ## Work experience 
 **Research Engineer @ School of Computing and Information Systems, Singapore Management University (_December 2021 - present_)**
 - [SmartBFA project](#smartbfa)
@@ -49,6 +47,7 @@
 - Extracted locations and attributes of buildings and amenities from 295,880 real estate listings and 954,510 transaction records by using Python and R 
 - The mechanism can achieve accuracy rates of over 90% in identifying locations of unmapped amenities and adding unfilled building attributes
 
+---
 
 ## Data engineering work
 
@@ -57,6 +56,7 @@
 
 Developed codes to aggregate over a million records of order-level taxi data into trip-level taxi data. For more details, please [View codes](https://github.com/chenxy285/gojek_taxi/tree/main).
 
+---
 
 ## Other coursework projects
 
