@@ -21,12 +21,14 @@
 <a name="smartbfa"></a>
 ### Smart Barrier-Free Access (SmartBFA)
 [Project website](https://smartbfa.com/)
+[Tech poster]([https://smartbfa.com/](https://www.canva.com/design/DAFBk8BAoD4/dBsr2iFutYPfMJhXMWTvAQ/view?utm_content=DAFBk8BAoD4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
 
 - Participated in developing a navigation tool to help wheelchair users find barrier-free accessible paths in Singapore
 - Modified GraphHopper API by using JavaScipt to conduct map matching on GPS trajectories of accessible paths collected by the wheelchair volunteers
 - Developed machine learning algorithms to detect the transition points between paths and open spaces for further routing generation by applying hidden Markov model and logistic regression
 
 ![smartbfa_webpage](/assets/imgs/smartbfa_webpage.png)
+
 
 <a name="qchipl"></a>
 ### Improving Quantal Cognitive Hierarchy Model Through Iterative Population Learning (QCHIPL)
