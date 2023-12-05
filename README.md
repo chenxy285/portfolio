@@ -19,7 +19,8 @@
   
 ## Projects
 <a name="smartbfa"></a>
-### Smart Barrier-Free Access (SmartBFA)
+### Smart Barrier-Free Access (SmartBFA) 
+##### HCI in urban accessibility
 [Project website](https://smartbfa.com/)  
 [Tech poster](https://www.canva.com/design/DAFBk8BAoD4/dBsr2iFutYPfMJhXMWTvAQ/view?utm_content=DAFBk8BAoD4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
@@ -30,6 +31,7 @@
 
 <a name="qchipl"></a>
 ### Improving Quantal Cognitive Hierarchy Model Through Iterative Population Learning (QCHIPL)
+##### Game theory, Human Behavior Prediction
 [Publication](https://arxiv.org/abs/2302.06033)
 
 - Perform cross-validation on the developed Quantal Cognitive Hierarchy - Iterative Population Learning (QCH-IPL) model and compare the prediction results with baseline models
@@ -38,6 +40,7 @@
 
 <a name="real_estate"></a>
 ### Mining real estate ads and property transactions for building and amenity data acquisition
+##### Urban Science, GIS
 [Publication](https://link.springer.com/article/10.1007/s44212-022-00012-2)
 
 - Developed an entirely new mechanism to maintain spatial databases by detecting unmapped buildings and amenities and adding unfilled building attributes detected from real estate data
