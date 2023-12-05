@@ -62,6 +62,7 @@ Developed codes to aggregate over a million records of order-level taxi data int
 
 
 ### Exploring Influencing Factors of Airbnb Penetration in Three U.S. Cities Using Spatial Regression Analysis
+##### Urban Science, spatial analytics, real estate
 [View project report and data](https://github.com/chenxy285/Airbnb_study)
 
 
