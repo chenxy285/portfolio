@@ -46,6 +46,8 @@
 - Extracted locations and attributes of buildings and amenities from 295,880 real estate listings and 954,510 transaction records by using Python and R 
 - The mechanism can achieve accuracy rates of over 90% in identifying locations of unmapped amenities and adding unfilled building attributes
 
+![real_estate_figure](/assets/imgs/real_estate.png)
+
   
 
 
