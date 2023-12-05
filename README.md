@@ -24,7 +24,9 @@
 
 - Participated in developing a navigation tool to help wheelchair users find barrier-free accessible paths in Singapore
 - Modified GraphHopper API by using JavaScipt to conduct map matching on GPS trajectories of accessible paths collected by the wheelchair volunteers
-- Developed machine learning algorithms to detect the transition points between paths and open spaces for further routing generation by applying hidden Markov model and logistic regression 
+- Developed machine learning algorithms to detect the transition points between paths and open spaces for further routing generation by applying hidden Markov model and logistic regression
+
+![smartbfa_poster](/assets/Digital For Life Event Poster (Tech).png)
 
 <a name="qchipl"></a>
 ### Improving Quantal Cognitive Hierarchy Model Through Iterative Population Learning (QCHIPL)
