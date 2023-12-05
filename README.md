@@ -4,6 +4,7 @@
 
 <br>
 <br>
+
 ## Education							       		
 - M.S.  Applied Geographic Information Systems	| National University of Singapore (_August 2021_)	 			        		
 - B.S.  Human Geography | Sun Yat-sen University (_June 2019_)
