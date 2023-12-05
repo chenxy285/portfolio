@@ -17,7 +17,7 @@
 **Teaching Assistant @ Urban Analytics Lab, National University of Singapore (_August 2020 - November 2020_)**
 - Prepared lecture materials about spatial network analysis by using QGIS
   
-## Projects
+## Research Projects
 <a name="smartbfa"></a>
 ### Smart Barrier-Free Access (SmartBFA) 
 ##### HCI in urban accessibility
@@ -46,6 +46,12 @@
 - Developed an entirely new mechanism to maintain spatial databases by detecting unmapped buildings and amenities and adding unfilled building attributes detected from real estate data
 - Extracted locations and attributes of buildings and amenities from 295,880 real estate listings and 954,510 transaction records by using Python and R 
 - The mechanism can achieve accuracy rates of over 90% in identifying locations of unmapped amenities and adding unfilled building attributes
+
+## Data engineering work
+
+### Gojek taxi data processing
+#### Language: Python
+
 
 
   
