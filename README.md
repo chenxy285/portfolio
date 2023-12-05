@@ -7,7 +7,7 @@
 - B.S.  Human Geography | Sun Yat-sen University (_June 2019_)
   
 ## Work experience 
-**Research Engineer @ School of Computing and Information Systems, Singapore Management University (_December 2021 - present)**
+**Research Engineer @ School of Computing and Information Systems, Singapore Management University (_December 2021 - present_)**
 - [SmartBFA project](#smartbfa)
 - [QCHIPL project](#qchipl)
   
@@ -20,12 +20,15 @@
 ## Projects
 <a name="smartbfa"></a>
 ### Smart Barrier-Free Access (SmartBFA)
+[Project website](https://smartbfa.com/)
 
 <a name="qchipl"></a>
 ### Improving Quantal Cognitive Hierarchy Model Through Iterative Population Learning (QCHIPL)
+[Publication](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2302.06033.pdf)
 
 <a name="real_estate"></a>
 ### Mining real estate ads and property transactions for building and amenity data acquisition
+[Publication](https://link.springer.com/article/10.1007/s44212-022-00012-2)
   
 
 
