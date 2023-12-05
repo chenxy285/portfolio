@@ -62,13 +62,13 @@ Developed codes to aggregate over a million records of order-level taxi data int
 
 ### Spatial-temporal Analysis of Taxi Demand in New York City
 ##### Urban Science, spatio-temporal analytics, transportation
-[View project report, codes, and data](https://github.com/chenxy285/taxi_demand_analysis_NYC)
+[View project report, codes, and data](https://github.com/chenxy285/taxi_demand_analysis_NYC)<br>
 ![taxiNYC](assets/imgs/taxiNYC.png)
 
 
 ### Exploring Influencing Factors of Airbnb Penetration in Three U.S. Cities Using Spatial Regression Analysis
 ##### Urban Science, spatial analytics, real estate
-[View project report and data](https://github.com/chenxy285/Airbnb_study)
+[View project report and data](https://github.com/chenxy285/Airbnb_study)<br>
 ![airbnbUS](assets/imgs/airbnbUS.png)
 
 
