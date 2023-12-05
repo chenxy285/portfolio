@@ -58,13 +58,13 @@
 ## Data engineering work
 
 ### Gojek taxi data processing
-#### Language: Python
+##### Language: Python
 
 Developed codes to aggregate over a million records of order-level taxi data into trip-level taxi data. For more details, please [View codes](https://github.com/chenxy285/gojek_taxi/tree/main).
 
-<br>
+
 ---
-<br>
+
 
 ## Other coursework projects
 
