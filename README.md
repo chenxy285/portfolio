@@ -2,6 +2,8 @@
 
 #### Urban Data Science, Machine Learning applications, Human-computer Interaction in accessibility
 
+<br>
+<br>
 ## Education							       		
 - M.S.  Applied Geographic Information Systems	| National University of Singapore (_August 2021_)	 			        		
 - B.S.  Human Geography | Sun Yat-sen University (_June 2019_)
@@ -17,7 +19,9 @@
 **Teaching Assistant @ Urban Analytics Lab, National University of Singapore (_August 2020 - November 2020_)**
 - Prepared lecture materials about spatial network analysis by using QGIS
 
+<br>
 ---
+<br>
 
 ## Research Projects
 <a name="smartbfa"></a>
@@ -47,7 +51,9 @@
 - Extracted locations and attributes of buildings and amenities from 295,880 real estate listings and 954,510 transaction records by using Python and R 
 - The mechanism can achieve accuracy rates of over 90% in identifying locations of unmapped amenities and adding unfilled building attributes
 
+<br>
 ---
+<br>
 
 ## Data engineering work
 
@@ -56,7 +62,9 @@
 
 Developed codes to aggregate over a million records of order-level taxi data into trip-level taxi data. For more details, please [View codes](https://github.com/chenxy285/gojek_taxi/tree/main).
 
+<br>
 ---
+<br>
 
 ## Other coursework projects
 
