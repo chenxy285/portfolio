@@ -24,7 +24,7 @@
 
 <a name="qchipl"></a>
 ### Improving Quantal Cognitive Hierarchy Model Through Iterative Population Learning (QCHIPL)
-[Publication]([chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2302.06033.pdf](https://arxiv.org/abs/2302.06033))
+[Publication](https://arxiv.org/abs/2302.06033)
 
 <a name="real_estate"></a>
 ### Mining real estate ads and property transactions for building and amenity data acquisition
