@@ -27,8 +27,6 @@
 - Modified GraphHopper API by using JavaScipt to conduct map matching on GPS trajectories of accessible paths collected by the wheelchair volunteers
 - Developed machine learning algorithms to detect the transition points between paths and open spaces for further routing generation by applying hidden Markov model and logistic regression
 
-<--! [smartbfa_webpage](/assets/imgs/smartbfa_webpage.png) -->
-
 
 <a name="qchipl"></a>
 ### Improving Quantal Cognitive Hierarchy Model Through Iterative Population Learning (QCHIPL)
@@ -46,7 +44,6 @@
 - Extracted locations and attributes of buildings and amenities from 295,880 real estate listings and 954,510 transaction records by using Python and R 
 - The mechanism can achieve accuracy rates of over 90% in identifying locations of unmapped amenities and adding unfilled building attributes
 
-<--![real_estate_figure](/assets/imgs/real_estate.png)-->
 
   
 
