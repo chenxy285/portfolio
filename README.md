@@ -81,6 +81,14 @@ Developed codes to aggregate over a million records of order-level taxi data int
 <br>
 ![airbnbUS](assets/imgs/airbnbUS.png)
 
+---
+
+### Publications
+- Yuhong Xu, Shih-Fen Cheng, and Xinyu Chen. Improving Quantal Cognitive Hierarchy Model Through Iterative Population Learning (Extended Abstract), 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS-2023), London, UK, May 2023.
+- Chen, X., & Biljecki, F. (2022). Mining real estate ads and property transactions for building and amenity data acquisition. Urban Informatics, 1(1), 12. [Urban Informatics Paper of the Year Award 2023 (1st place)]
+
+
+
 
 
 
