@@ -21,7 +21,7 @@
 <a name="smartbfa"></a>
 ### Smart Barrier-Free Access (SmartBFA)
 [Project website](https://smartbfa.com/)
-[Tech poster]([https://smartbfa.com/](https://www.canva.com/design/DAFBk8BAoD4/dBsr2iFutYPfMJhXMWTvAQ/view?utm_content=DAFBk8BAoD4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[Tech poster](https://www.canva.com/design/DAFBk8BAoD4/dBsr2iFutYPfMJhXMWTvAQ/view?utm_content=DAFBk8BAoD4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 - Participated in developing a navigation tool to help wheelchair users find barrier-free accessible paths in Singapore
 - Modified GraphHopper API by using JavaScipt to conduct map matching on GPS trajectories of accessible paths collected by the wheelchair volunteers
