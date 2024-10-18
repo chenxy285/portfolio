@@ -27,7 +27,7 @@
 <a name="smartbfa"></a>
 ### Smart Barrier-Free Access (SmartBFA) 
 ##### HCI in urban accessibility
-[Project website](https://www.smartbfa.com/)  
+[Project website](https://www.smartbfa.com/aboutUs)  
 [Tech poster](https://www.canva.com/design/DAFBk8BAoD4/dBsr2iFutYPfMJhXMWTvAQ/view?utm_content=DAFBk8BAoD4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 - Participated in developing a navigation tool to help wheelchair users find barrier-free accessible paths in Singapore
