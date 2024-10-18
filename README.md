@@ -9,7 +9,10 @@
 - B.S.  Human Geography and Urban-rural Planning | Sun Yat-sen University (_June 2019_)
 
 ## Work experience 
-**Research Engineer @ School of Computing and Information Systems, Singapore Management University (_December 2021 - present_)**
+**Research Associate @ Urban Ecology Lab, National University of Singapore(_February 2024 - present_)**
+- Research on a novel method for measuring urban park accessibility: examining the ‘quarter-mile rule’.
+
+**Research Engineer @ School of Computing and Information Systems, Singapore Management University (_December 2021 - December 2023_)**
 - [SmartBFA project](#smartbfa)
 - [QCHIPL project](#qchipl)
 
